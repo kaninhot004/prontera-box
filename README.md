@@ -18,3 +18,5 @@ Skill
 - Skill List [Soon]()
 - Learnable Skill ID List [Soon]()
 - Critical Skill List [Soon]()
+
+<img src="https://discord.com/api/guilds/1452139770988724287/widget.png?style=banner4" alt="Discord Banner 4"/>
