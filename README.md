@@ -6,6 +6,8 @@
 Converter
 - rAthena Item Database to Item Information Converter (Server to Client) Version 8.6 [Soon]()
 
+Client Database
+- Complete Texture and Sprite that compatible with rAthena [Soon]()
 Item
 - Latest item information compatible with rAthena [Soon]()
 - Item Mall [Soon]()
