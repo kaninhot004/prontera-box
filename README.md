@@ -12,7 +12,7 @@ Client Database
 Item
 - Latest item information compatible with rAthena [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/itemInfo_true_item_link.lub)
 - Item mall and item list [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/item_mall.txt)
-- Simple item List [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/global_item_ids.txt)
+- Simple item list [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/global_item_ids.txt)
 - Monster list [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/global-monster-list.txt)
 - Easy item bonus finder [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/easy_item_builder.txt)
 
