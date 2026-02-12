@@ -7,7 +7,7 @@ Converter
 - rAthena item database to item information converter (Server to client) [Link](https://pixeldrain.com/u/deoaBNmJ)
 
 Client Database
-- Complete textures and sprites that compatible with rAthena [Soon]()
+- Complete textures and sprites that compatible with rAthena [Link](https://pixeldrain.com/u/aXBocgH6)
 
 Item
 - Latest item information compatible with rAthena [Link](https://github.com/kaninhot004/prontera-box/blob/main/files/itemInfo_true_item_link.lub)
